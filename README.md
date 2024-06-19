@@ -1,7 +1,7 @@
 # FINAL_YEAR_PROJECT_ON_CYBER_SECUIRITY
 A FINGERPRINT ENABLED PAYMENT SYSTEM ON BLOCKCHAIN
 
-**DEPLOYED @**: https://ss4digbijoy.github.io/FINAL_YEAR_PROJECT_ON_CYBER_SECUIRITY/ 
+**DEPLOYED @**: https://pranabsaha2001.github.io/AEPS_Transaction/ 
 
 # Securing AEPS through Blockchain Technology
 
